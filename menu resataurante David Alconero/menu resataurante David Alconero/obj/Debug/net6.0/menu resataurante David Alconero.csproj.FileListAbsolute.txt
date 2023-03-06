@@ -1,0 +1,15 @@
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.csproj.AssemblyReference.cache
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.AssemblyInfoInputs.cache
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.AssemblyInfo.cs
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.csproj.CoreCompileInputs.cache
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\bin\Debug\net6.0\menu resataurante David Alconero.exe
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\bin\Debug\net6.0\menu resataurante David Alconero.deps.json
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\bin\Debug\net6.0\menu resataurante David Alconero.runtimeconfig.json
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\bin\Debug\net6.0\menu resataurante David Alconero.dll
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\bin\Debug\net6.0\menu resataurante David Alconero.pdb
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.dll
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\refint\menu resataurante David Alconero.dll
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.pdb
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\menu resataurante David Alconero.genruntimeconfig.cache
+C:\Users\dalco\OneDrive\Escritorio\intro progra\menu resataurante David Alconero\menu resataurante David Alconero\obj\Debug\net6.0\ref\menu resataurante David Alconero.dll
